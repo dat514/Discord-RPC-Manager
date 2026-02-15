@@ -2,7 +2,7 @@
 
 A powerful and easy-to-use Discord Rich Presence (RPC) manager for Windows. Allows you to fully customize your Discord status, supporting multiple profiles and automation features.
 
-![Banner](https://via.placeholder.com/800x400?text=Discord+RPC+Manager+Preview)
+![Banner](https://github.com/dat514/Discord-RPC-Manager/blob/main/Img/Screenshot.png)
 
 ## 📥 Download
 
