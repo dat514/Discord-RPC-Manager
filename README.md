@@ -6,11 +6,14 @@ A powerful and easy-to-use Discord Rich Presence (RPC) manager for Windows. Allo
 
 ## 📥 Download
 
-You can download the latest version (`.exe` file) directly here:
+You can download the latest version (`DiscordRPCManager1.0.2.zip`) here:
 
-[![Download Latest Release](https://img.shields.io/github/v/release/dat514/Discord-RPC-Manager?label=Download&style=for-the-badge&color=blue)](https://github.com/dat514/Discord-RPC-Manager/releases/latest/download/DiscordRPCManager.exe)
+[![Download Latest Release](https://img.shields.io/github/v/release/dat514/Discord-RPC-Manager?label=Download\&style=for-the-badge\&color=blue)](https://github.com/dat514/Discord-RPC-Manager/releases/latest/download/DiscordRPCManager1.0.2.zip)
 
-> **Note:** The link above will automatically download `DiscordRPCManager.exe` from the latest release. To view all versions, visit the [Releases Page](https://github.com/dat514/Discord-RPC-Manager/releases).
+> **Note:** The link above will automatically download `DiscordRPCManager1.0.2.zip` from the latest release.
+> Extract the `.zip` file to access the `.exe` file inside.
+> To view all versions, visit the [Releases Page](https://github.com/dat514/Discord-RPC-Manager/releases).
+
 
 ## ✨ Key Features
 
